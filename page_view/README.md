@@ -1,4 +1,6 @@
-# page_view
+# PageView
 
-Automatically switches pages.
+## Contents
+
+### Automatically switches pages.
 ![automatically_switch_pages.gif](automatically_switch_pages.gif)
