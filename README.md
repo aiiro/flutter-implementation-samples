@@ -5,3 +5,4 @@ A collection of sample implementations of Flutter.
 
 - [PageView](/page_view/README.md)
 - [ListView](/listview/README.md)
+- [Text](/text/README.md)
